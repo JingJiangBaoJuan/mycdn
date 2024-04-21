@@ -1,1 +1,9 @@
 /* Here is your custom css styles. */
+@font-face{
+    font-family: 'YeZiGongChangJiangYueLingXingKai-2';
+    src: url('https://cdn.jsdelivr.net/gh/JingJiangBaoJuan/mycdn/hexo-theme-matery/source/YeZiGongChangJiangYueLingXingKai-2.ttf');
+}
+
+body{
+    font-family: 'YeZiGongChangJiangYueLingXingKai-2';
+}
